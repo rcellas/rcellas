@@ -1,6 +1,6 @@
 
 <h1> Hi, I'm Rocío! <img src="https://w7.pngwing.com/pngs/588/377/png-transparent-league-of-legends-drawing-whiskers-sticker-league-of-legends-game-white-cat-like-mammal.png" width="50"></h1>
-<h2 >Fullstack developer | Co-trainer in @ <a href='https://factoriaf5.org/'>Factoría F5</a> | <a href='https://scrummanager.com/website/c/verify-cert.php?code=64367713037853.77701066'> Scrum Master</a> | <a href='https://scrummanager.com/website/c/verify-cert.php?code=64367f4b39ff65.22403508'> Product Owner</a></h2>
+<h2 >Fullstack developer | Trainer in @ <a href='https://factoriaf5.org/'>Factoría F5</a> | <a href='https://scrummanager.com/website/c/verify-cert.php?code=64367713037853.77701066'> Scrum Master</a> | <a href='https://scrummanager.com/website/c/verify-cert.php?code=64367f4b39ff65.22403508'> Product Owner</a></h2>
 
 ```csharp
 public class Rocío
