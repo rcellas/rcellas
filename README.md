@@ -16,6 +16,7 @@ public class Rocío
     string workInProgress { get; set; } = "Studying Cybersecurity";
     string[] freeTimeActivities { get; set; } = {
         "Playing League of Legends/Wild Rift as ADC or Support (main Caitlyn and Seraphine)",
+        "Playing Honor of King as ADC or Mid",
         "Reading",
         "Running",
         "Watching anime"
