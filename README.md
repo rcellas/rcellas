@@ -6,14 +6,14 @@
 public class Rocío
 {
     string[] pronouns { get; set; } = { "she", "her" };
-    string[] codeLanguages { get; set; } = { "JavaScript", "TypeScript", "HTML", "CSS", "C #","Java" };
-    string[] tools { get; set; } = { "React", "Redux", "Angular", "Sass", , "ASP.NET","Jest" };
+    string[] codeLanguages { get; set; } = { "JavaScript", "TypeScript", "HTML", "CSS", "C#","Java","Python","Swift" };
+    string[] FrameworksAndLibraries { get; set; } = { "React", "Redux", "Angular", "Sass","ASP.NET","Jest","Spring boot","Cypress" };
     Language[] languages { get; set; } = {
         new Language { Name = "Spanish", Level = "native" },
         new Language { Name = "Catalan", Level = "native" },
         new Language { Name = "English", Level = "basic-medium" }
     };
-    string workInProgress { get; set; } = "Studying Cybersecurity";
+    string workInProgress { get; set; } = "Studying Swift";
     string[] freeTimeActivities { get; set; } = {
         "Playing League of Legends/Wild Rift as ADC or Support (main Caitlyn and Seraphine)",
         "Playing Honor of King as ADC or Mid",
