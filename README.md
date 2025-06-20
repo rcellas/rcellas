@@ -1,28 +1,30 @@
 
-<h1> Hi, I'm Rocío! <img src="https://w7.pngwing.com/pngs/588/377/png-transparent-league-of-legends-drawing-whiskers-sticker-league-of-legends-game-white-cat-like-mammal.png" width="50"></h1>
-<h2 >Fullstack developer | Trainer in @ <a href='https://factoriaf5.org/'>Factoría F5</a> | <a href='https://scrummanager.com/website/c/verify-cert.php?code=64367713037853.77701066'> Scrum Master</a> | <a href='https://scrummanager.com/website/c/verify-cert.php?code=64367f4b39ff65.22403508'> Product Owner</a></h2>
+# Hi, I'm Rocío! <img src="https://w7.pngwing.com/pngs/588/377/png-transparent-league-of-legends-drawing-whiskers-sticker-league-of-legends-game-white-cat-like-mammal.png" width="50">
 
-```csharp
+## Fullstack developer | Trainer in @ [Factoría F5](https://factoriaf5.org/) | [Scrum Master](https://scrummanager.com/website/c/verify-cert.php?code=64367713037853.77701066) | [Product Owner](https://scrummanager.com/website/c/verify-cert.php?code=64367f4b39ff65.22403508)
+
+```java
 public class Rocío
 {
-    string[] pronouns { get; set; } = { "she", "her" };
-    string[] codeLanguages { get; set; } = { "JavaScript", "TypeScript", "HTML", "CSS", "C#","Java","Python","Swift" };
-    string[] FrameworksAndLibraries { get; set; } = { "React", "Redux", "Angular", "Sass","ASP.NET","Jest","Spring boot","Cypress" };
-    Language[] languages { get; set; } = {
-        new Language { Name = "Spanish", Level = "native" },
-        new Language { Name = "Catalan", Level = "native" },
-        new Language { Name = "English", Level = "basic-medium" }
+    String[] pronouns = { "she", "her" };
+    String[] codeLanguages = { "JavaScript", "TypeScript", "HTML", "CSS", "Java", "Python", "Swift" };
+    String[] frameworksAndLibraries = { "React", "Redux", "Angular", "Sass", "Spring boot", "Jest", "Cypress" };
+    Language[] languages = {
+        new Language("Spanish", "native"),
+        new Language("Catalan", "native"),
+        new Language("English", "basic-medium")
     };
-    string workInProgress { get; set; } = "Studying Swift";
-    string[] freeTimeActivities { get; set; } = {
+    String workInProgress = "Devops";
+    String[] freeTimeActivities = {
         "Playing League of Legends/Wild Rift as ADC or Support (main Caitlyn and Seraphine)",
         "Playing Honor of King as ADC or Mid",
         "Reading",
-        "Running",
+        "Zumba",
         "Watching anime"
     };
 }
 ```
+
 ---
 <section align="center">
   
