@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Rocío! 👋</h1>
-  <p><img src="https://img.shields.io/badge/Fullstack_Developer-%23007ACC?style=for-the-badge" alt="role"/></p>
+  <img src="https://w7.pngwing.com/pngs/588/377/png-transparent-league-of-legends-drawing-whiskers-sticker-league-of-legends-game-white-cat-like-mammal.png" width="50" alt="poro" />
+  <h2>FullStack Developer | Tech Trainer in Factoría F5 | Scrum Master | Product Owner</h2>
 </div>
 
 ---
@@ -19,7 +20,7 @@ public class Rocío extends Developer implements Trainer, ScrumMaster, ProductOw
     private String[] frontend = { "React", "Redux", "Angular", "Astro", "Material UI", "Ant Design", "Sass", "TailwindCSS" };
     private String[] backend = { "Spring Boot", "Spring IA", "Node.js", "Express", "NestJS" };
     private String[] testing = { "Jest", "Cypress", "Playwright", "JUnit", "Mockito", "axe" };
-    private String[] tools = { "Git", "Docker", "AWS", "Postman", "Figma" };
+    private String[] tools = { "Git", "Docker", "AWS", "Postman" };
 
     // Languages I speak
     private Map<String, String> spokenLanguages = Map.of(
@@ -55,6 +56,16 @@ public class Rocío extends Developer implements Trainer, ScrumMaster, ProductOw
 
 ---
 
+<section align="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rcellas&theme=react)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rcellas&theme=react)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rcellas&theme=react)
+
+</section>
+
+---
+
 ## 🚀 Tech Stack & Skills
 
 <div align="center">
@@ -74,6 +85,9 @@ public class Rocío extends Developer implements Trainer, ScrumMaster, ProductOw
 ![Astro](https://img.shields.io/badge/Astro-0EA5A2?style=for-the-badge&logo=astro&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+
+### 🎨 UX / Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### ⚙️ Backend & Database
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -97,7 +111,6 @@ public class Rocío extends Developer implements Trainer, ScrumMaster, ProductOw
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📚 Methodologies & Accessibility
 ![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge)
@@ -119,6 +132,10 @@ public class Rocío extends Developer implements Trainer, ScrumMaster, ProductOw
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rcellas&theme=react&hide_border=true&background=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rcellas&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
