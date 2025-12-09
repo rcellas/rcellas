@@ -179,7 +179,6 @@ public class Rocío extends Developer implements Trainer, ScrumMaster, ProductOw
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rcellas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rociocejudo/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rociocejudo@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/rcellas)
 
 </div>
@@ -189,7 +188,15 @@ public class Rocío extends Developer implements Trainer, ScrumMaster, ProductOw
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/rcellas/rcellas/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+  <!-- Snake animation will appear here after the first GitHub Actions run -->
+  <!-- The workflow needs to be triggered manually first or will run automatically on push to main -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rcellas/rcellas/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/rcellas/rcellas/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/rcellas/rcellas/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+  
 </div>
 
 ---
