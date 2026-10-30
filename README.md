@@ -4,22 +4,27 @@
 ## Fullstack developer | Trainer in @ [Factoría F5](https://factoriaf5.org/) | [Scrum Master](https://scrummanager.com/website/c/verify-cert.php?code=64367713037853.77701066) | [Product Owner](https://scrummanager.com/website/c/verify-cert.php?code=64367f4b39ff65.22403508)
 
 ```java
-public class Rocío
-{
-    String[] pronouns = { "she", "her" };
-    String[] codeLanguages = { "JavaScript", "TypeScript", "HTML", "CSS", "Java", "Python", "Swift" };
-    String[] frameworksAndLibraries = { "React", "Redux", "Angular", "Sass", "Spring boot", "Jest", "Cypress" };
-    Language[] languages = {
-        new Language("Spanish", "native"),
-        new Language("Catalan", "native"),
-        new Language("English", "basic-medium")
-    };
-    String workInProgress = "Devops";
-    String[] freeTimeActivities = {
-        "Playing League of Legends/Wild Rift as ADC or Support (main Caitlyn and Seraphine)",
-        "Playing Honor of King as ADC or Mid",
-        "Reading",
-        "Zumba",
+public class Rocio {
+    private final String[] pronouns = { "she", "her" };
+    
+    // Core Engineering & AI
+    private final String[] aiEcosystem = { "Spring AI", "Genkit", "WebMCP", "Autonomous Agents", "RAG Pipelines" };
+    private final String[] backend = { "Java", "Spring Boot", "Python", "Fastapi", "NestJS", "PHP", "Laravel" };
+    private final String[] frontend = { "TypeScript", "Angular", "React", "Astro" };
+    private final String[] testingAndQuality = { "Vitest", "Playwright", "JUnit", "A11y" };
+
+    private final Map<String, String> languages = Map.of(
+        "Catalan", "Native",
+        "Spanish", "Native",
+        "English", "Professional Working"
+    );
+
+    private String currentFocus = "GenAI integration with Spring AI & Autonomous WebMCP Agents";
+
+    private final String[] hobbies = {
+        "Gaming: LoL / Wild Rift (ADC & Support main: Caitlyn & Seraphine)",
+        "Gaming: TFT & Team Strategy",
+        "Creative writing & Poetry",
         "Watching anime"
     };
 }
